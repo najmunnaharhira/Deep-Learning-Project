@@ -1,5 +1,6 @@
 # 🐶🐱 Dog vs Cat Classification using Transfer Learning (MobileNet V2)
 
+![main image](https://github.com/user-attachments/assets/6bc72e71-193d-4ef2-8987-f95d1fce0f09)
 
 
  ![Github Repo](https://img.shields.io/badge/GitHub-najmunnaharhira%2FDeep--Learning--Project-blue?logo=github)
