@@ -128,8 +128,15 @@ pip install -r requirements.txt
 **TensorFlow MobileNetV2**
 
 **Keras Transfer Learning Guide**
+## 🔹 Screenshots 🔹
+ ![img 1](https://github.com/user-attachments/assets/899fedad-86de-4fc0-9f8f-12208ee11812)
+ ![img 2](https://github.com/user-attachments/assets/93eee8e3-8125-47ff-a41b-0b98ff13f7e9)
+ ![img 3](https://github.com/user-attachments/assets/3575223a-517a-443e-a65f-5ad17c777579)
+ ![img 4](https://github.com/user-attachments/assets/b1f7f84f-a964-4fb3-8e96-a7476d55b4d0)
 
-🔹 Screenshots 🔹
+
+
+
 
 
 
