@@ -1,28 +1,29 @@
-🐶🐱 Dog vs Cat Classification using Transfer Learning (MobileNet V2)
+# 🐶🐱 Dog vs Cat Classification using Transfer Learning (MobileNet V2)
 ]
 ![main image ](https://github.com/user-attachments/assets/bc9d4e90-7f7c-4ea4-84bf-77e95ce23430)
 
  ![Github Repo](https://img.shields.io/badge/GitHub-najmunnaharhira%2FDeep--Learning--Project-blue?logo=github)
 
-🔹 Project Overview 🔹
+## 🔹 Project Overview 🔹
 
 This project demonstrates image classification using Transfer Learning, leveraging the MobileNet V2 pre-trained model to classify images of dogs and cats.
 By using Transfer Learning, we reuse knowledge from a model trained on the large ImageNet dataset, achieving excellent accuracy on a smaller, domain-specific dataset.
 
-🔹 Project Overview (Video) 🔹
+## 🔹 Project Overview (Video) 🔹
 
-🎥 Video Link : https://youtu.be/gBu9Y460SMg?si=BZfY81eBqrB3CDLd
+[🎥 **Watch Project Video**](https://youtu.be/gBu9Y460SMg?si=BZfY81eBqrB3CDLd)
 
 
-🔹 Dataset 🔹
+## 🔹 Dataset 🔹
 
 📂 Dogs vs Cats Dataset (Kaggle)
+ # https://www.kaggle.com/c/dogs-vs-cats/data
 
 Contains 25,000 labeled images of dogs and cats used for training and validation.
 
-🔹 Methodology 🔹
+## 🔹 Methodology 🔹
 
-✅ Data Preprocessing:
+✅ **Data Preprocessing**:
 
 Loaded and resized all images to 224×224 pixels
 
@@ -30,7 +31,7 @@ Normalized pixel values between 0 and 1
 
 Labeled classes for binary classification (Dog/Cat)
 
-✅ Model Architecture (Transfer Learning):
+✅**Model Architecture (Transfer Learning)**:
 
 Used MobileNetV2 pre-trained on ImageNet
 
@@ -38,7 +39,7 @@ Froze base layers to retain learned features
 
 Added custom dense layers for classification
 
-✅ Training Details:
+✅ **Training Details**:
 
 Optimizer: Adam
 
@@ -48,27 +49,27 @@ Metrics: accuracy
 
 Epochs: 5–10
 
-✅ Evaluation:
+✅ **Evaluation**:
 
 Achieved up to 98% validation accuracy
 
 Visualized accuracy & loss curves using Matplotlib
 
-🔹 Tech Stack 🔹
+## 🔹Tech Stack 🔹
 
-💻 Development Environment:
+💻 **Development Environment**:
 
 Google Colab — for cloud-based notebook execution and GPU support
 
 Python 3.x — programming language
 
-🧠 Deep Learning Frameworks:
+🧠 **Deep Learning Frameworks**:
 
 TensorFlow / Keras — model building, training, and evaluation
 
 MobileNetV2 — pre-trained CNN model used for transfer learning
 
-📊 Data Handling & Visualization:
+📊 **Data Handling & Visualization**:
 
 NumPy — numerical operations
 
@@ -76,22 +77,22 @@ Pandas — data manipulation
 
 Matplotlib & Seaborn — visualizing accuracy, loss, and predictions
 
-🖼 Dataset:
+🖼 **Dataset**:
 
 Kaggle — Dogs vs Cats Dataset (25,000 labeled images of dogs and cats)
 
-☁ Platform:
+☁ **Platform**:
 
 Google Drive Integration — for dataset storage and easy Colab access
 
-🔹 Installation 🔹
+## 🔹 Installation 🔹
 git clone https://github.com/najmunnaharhira/Deep-Learning-Project.git
 cd Deep-Learning-Project
 pip install -r requirements.txt
 
-🔹 How to Use 🔹
+## 🔹 How to Use 🔹
 
-✅ Open the notebook DL_Project_Dog_vs_Cat_Classification_Transfer_Learning.ipynb in Google Colab
+✅ Open the notebook DL_Project_Dog_vs_Cat_Classification_Transfer_Learning.ipynb in **Google Colab**
 
 ✅ Mount Google Drive for dataset access
 
@@ -102,7 +103,7 @@ pip install -r requirements.txt
 ✅ Use the trained model to predict new dog or cat images
 
 
-🔹 Results 🔹
+## 🔹 Results 🔹
 
 📈 Validation Accuracy: ~98%
 📉 Validation Loss: ~0.05
@@ -112,20 +113,20 @@ Image	Prediction
 
 🐱 cat1.jpg	✅ Cat
 
-🔹 Future Improvement Ideas 🔹
+## 🔹 Future Improvement Ideas 🔹
 
 ✨ Implement real-time classification using OpenCV
 ✨ Add data augmentation for better generalization
 ✨ Experiment with other models (ResNet, EfficientNet)
 ✨ Deploy model using Streamlit or Flask Web App
 
-🔹 References 🔹
+## 🔹 References 🔹
 
-Kaggle Dogs vs Cats Dataset
+**Kaggle Dogs vs Cats Dataset**
 
-TensorFlow MobileNetV2
+**TensorFlow MobileNetV2**
 
-Keras Transfer Learning Guide
+**Keras Transfer Learning Guide**
 
 🔹 Screenshots 🔹
 
