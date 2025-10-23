@@ -2,7 +2,7 @@
 ]
 ![main image ](https://github.com/user-attachments/assets/bc9d4e90-7f7c-4ea4-84bf-77e95ce23430)
 
-(https://github.com/user-attachments/assets/31919d4c-e784-4d4b-a681-3723ec6973c0) [![Github Repo](https://img.shields.io/badge/GitHub-najmunnaharhira%2FDeep--Learning--Project-blue?logo=github)]https://github.com/najmunnaharhira/Deep-Learning-Project
+ [![Github Repo](https://img.shields.io/badge/GitHub-najmunnaharhira%2FDeep--Learning--Project-blue?logo=github)]https://github.com/najmunnaharhira/Deep-Learning-Project
 
 🔹 Project Overview 🔹
 
