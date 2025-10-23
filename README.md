@@ -92,10 +92,15 @@ pip install -r requirements.txt
 🔹 How to Use 🔹
 
 ✅ Open the notebook DL_Project_Dog_vs_Cat_Classification_Transfer_Learning.ipynb in Google Colab
+
 ✅ Mount Google Drive for dataset access
+
 ✅ Run all cells sequentially
+
 ✅ The model will train and display accuracy & loss graphs
+
 ✅ Use the trained model to predict new dog or cat images
+
 
 🔹 Results 🔹
 
@@ -104,7 +109,9 @@ pip install -r requirements.txt
 
 Image	Prediction
 🐶 dog1.jpg	✅ Dog
+
 🐱 cat1.jpg	✅ Cat
+
 🔹 Future Improvement Ideas 🔹
 
 ✨ Implement real-time classification using OpenCV
