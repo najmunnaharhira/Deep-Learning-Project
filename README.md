@@ -1,6 +1,6 @@
 # 🐶🐱 Dog vs Cat Classification using Transfer Learning (MobileNet V2)
 
-![main image ](https://github.com/user-attachments/assets/bc9d4e90-7f7c-4ea4-84bf-77e95ce23430)
+
 
  ![Github Repo](https://img.shields.io/badge/GitHub-najmunnaharhira%2FDeep--Learning--Project-blue?logo=github)
 
@@ -17,7 +17,7 @@ By using Transfer Learning, we reuse knowledge from a model trained on the large
 ## 🔹 Dataset 🔹
 
 📂 Dogs vs Cats Dataset (Kaggle)
- # https://www.kaggle.com/c/dogs-vs-cats/data
+ **https://www.kaggle.com/c/dogs-vs-cats/data**
 
 Contains 25,000 labeled images of dogs and cats used for training and validation.
 
@@ -105,13 +105,13 @@ pip install -r requirements.txt
 
 ## 🔹 Results 🔹
 
-📈 Validation Accuracy: ~98%
-📉 Validation Loss: ~0.05
+**📈 Validation Accuracy: ~98%**
+**📉 Validation Loss: ~0.05**
 
-Image	Prediction
-🐶 dog1.jpg	✅ Dog
+## Image	Prediction
+**🐶 dog1.jpg	✅ Dog**
 
-🐱 cat1.jpg	✅ Cat
+**🐱 cat1.jpg	✅ Cat**
 
 ## 🔹 Future Improvement Ideas 🔹
 
@@ -130,11 +130,6 @@ Image	Prediction
 
 🔹 Screenshots 🔹
 
-![image 1](https://github.com/user-attachments/assets/82a0f250-dab5-4805-883f-e104d3fb736d)
-![image2](https://github.com/user-attachments/assets/e980c6b9-e6d6-41ca-914a-f22125bbd8b3)
-![image 3](https://github.com/user-attachments/assets/6b82cef5-6995-4d88-8e45-94acaf4c3d54)
-![image 4](https://github.com/user-attachments/assets/43771526-b6f8-43fb-bca8-1fc096635ae7)
-![image5](https://github.com/user-attachments/assets/18c51981-9b99-417a-bcba-c2c0fbb6bae7)
 
 
 
