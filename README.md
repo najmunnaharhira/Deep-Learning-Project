@@ -10,9 +10,6 @@
 This project demonstrates image classification using Transfer Learning, leveraging the MobileNet V2 pre-trained model to classify images of dogs and cats.
 By using Transfer Learning, we reuse knowledge from a model trained on the large ImageNet dataset, achieving excellent accuracy on a smaller, domain-specific dataset.
 
-## 🔹 Project Overview (Video) 🔹
-
-[🎥 **Watch Project Video**](https://youtu.be/gBu9Y460SMg?si=BZfY81eBqrB3CDLd)
 
 
 ## 🔹 Dataset 🔹
